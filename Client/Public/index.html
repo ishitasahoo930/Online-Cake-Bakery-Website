@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bakery Website - Home</title>
+    <link rel="stylesheet" href="../css/index.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">
+                <h1>Delightful Dessert</h1>
+            </div>
+          <ul class="nav-links">
+                <li><a href="/">Home</a></li>
+                <li><a href="/about">About</a></li>
+                <li><a href="/products">Products</a></li>
+                <li><a href="cart">Cart (<span id="cart-count">0</span>)</a></li>
+                <li><a href="/order">Order</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="hero">
+            <div class="hero-content">
+                <h2>Cake baked with heart</h2>
+                  <h3>We specialize in <span id="element"></span></h3>
+                <p>Freshly baked with love and the finest ingredients</p>
+                <a href="/products" class="btn">Shop Now</a>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; Isu's Dessert Bakery</p>
+    </footer>
+
+    <script src="../js/main.js"></script>
+    <script src="https://unpkg.com/typed.js@2.1.0/dist/typed.umd.js"></script>
+  
+  <script>
+    var typed = new Typed('#element', {
+      strings: [
+        'Chocolate Cakes 🍫',
+        'Wedding Cakes 🎂',
+        'Cupcakes 🧁',
+        'Birthday Cakes 🎉',
+        'Fresh Pastries 🥐'
+      ],
+      typeSpeed: 60,
+      backSpeed: 40,
+      loop: true
+    });
+  </script>
+</body>
+</html>

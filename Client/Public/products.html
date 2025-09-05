@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bakery Website - Products</title>
+    <link rel="stylesheet" href="../css/index.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">
+                <h1>Delightful Dessert</h1>
+            </div>
+           <ul class="nav-links">
+                <li><a href="/">Home</a></li>
+                <li><a href="/about">About</a></li>
+                <li><a href="/products">Products</a></li>
+                <li><a href="cart">Cart (<span id="cart-count">0</span>)</a></li>
+                <li><a href="/order">Order</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="products-page">
+            <h1>Our Delicious Cakes</h1>
+            <div class="products-grid" id="products-container">
+                <!-- Products will be loaded here -->
+            </div>
+        </section>
+    </main>
+
+    <div id="notification" class="notification">Product added to cart!</div>
+
+    <footer>
+        <p>&copy; Isu's Dessert Bakery</p>
+    </footer>
+
+    <script src="../js/products.js"></script>
+</body>
+</html>
