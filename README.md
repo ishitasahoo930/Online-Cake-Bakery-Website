@@ -21,3 +21,5 @@ cake-bakery/
 ![image alt](https://github.com/ishitasahoo930/Online-Cake-Bakery-Website/blob/4ca1ae7393199fcd9ef420b9f300d83e175f7bf6/Screenshot%202025-09-05%20200424.png)
 ![image alt](https://github.com/ishitasahoo930/Online-Cake-Bakery-Website/blob/4986c1ff827bdca40f123189bbdbea628f6ba1e5/Screenshot%202025-09-05%20200531.png)
 ![image alt](https://github.com/ishitasahoo930/Online-Cake-Bakery-Website/blob/da46a0539a2acbb636f6fe3b5ad30601618c46b6/Screenshot%202025-09-05%20200620.png)
+![image alt](https://github.com/ishitasahoo930/Online-Cake-Bakery-Website/blob/050f4b5941fa35286a41d56c681610c05045e396/Screenshot%202025-09-05%20200717.png)
+![image alt]()
