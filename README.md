@@ -1,22 +1,5 @@
-🍰 Cake Bakery Website
-A full-stack web application for an online cake bakery. Customers can browse cakes, view details, add to cart, and place orders.
-
-🚀 Features
-User-friendly frontend built with HTML, CSS, and JavaScript
-Backend with Node.js and Express
-MongoDB Atlas for storing products and orders
-Shopping cart system
-Order placement and management
-
-📂 Project Structure
-cake-bakery/
-│── server/        # Node.js + Express backend
-│── public/        # Frontend (HTML, CSS, JS)
-│── models/        # MongoDB models
-│── routes/        # Express routes
-│── package.json   # Dependencies and scripts
-
-
+IBM-Final-Project-
+A full-stack Cake Bakery website where users can browse cakes, add them to a cart, and place orders online. Built with HTML, CSS, JavaScript for the frontend and Node.js, Express, and MongoDB for the backend. Includes product management, shopping cart, and order handling features.
 
 Home Page and if we click on Shop Now button it directly goes to Products Page
 ![image alt](https://github.com/ishitasahoo930/Online-Cake-Bakery-Website/blob/e474f3c80e99e26fa41c39bc17e770a0852ca214/Screenshot%202025-09-05%20200234.png)
