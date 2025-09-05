@@ -2,6 +2,13 @@
 
 A full-stack Cake Bakery website where users can browse cakes, add them to a cart, and place orders online. Built with HTML, CSS, JavaScript for the frontend and Node.js, Express, and MongoDB for the backend. Includes product management, shopping cart, and order handling features.
 
+**Features**
+A.User-friendly frontend built with HTML, CSS, and JavaScript
+B.Backend with Node.js and Express
+C.MongoDB Atlas for storing products and orders
+D.Shopping cart system
+E.Order placement and management
+
 **Home Page and if we click on Shop Now button it directly goes to Products Page**
 ![image alt](https://github.com/ishitasahoo930/Online-Cake-Bakery-Website/blob/e474f3c80e99e26fa41c39bc17e770a0852ca214/Screenshot%202025-09-05%20200234.png)
 
